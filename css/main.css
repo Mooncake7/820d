@@ -1,0 +1,6 @@
+#inside{
+    background-image: url('../images/hutinterior.jpeg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
